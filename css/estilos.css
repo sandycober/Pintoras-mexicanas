@@ -1,0 +1,58 @@
+body{
+    font-family: "open sans";
+    background:pink;
+    
+
+
+
+    font-family: sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    color: red;
+    text-align: center;
+    font-size: 3em;
+    letter-spacing: 10px;
+    text-shadow: 3px 3px 5px rgb(165, 108, 108);
+}
+
+h3{
+    color: darkslateblue;
+}
+
+.violeta, h3{  
+    color:rgb(243, 81, 197);
+}
+
+.derecha{
+    text-align: right;
+    font-style: italic;
+}
+
+h4{
+    color: rgb(149, 52, 149);
+}
+h5{
+    color:rgb(232, 59, 151);
+}
+.Pintoras p{
+    color:purple;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.Pintoras{
+    background-color:rgba(190, 105, 251, 0.945);
+     padding: 30px;
+     border: 10px solid blueviolet;
+     margin: 50px;
+}
+
+
+
+/* div{
+    border: 3px outset red;
+} */
+ 
