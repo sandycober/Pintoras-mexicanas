@@ -48,7 +48,9 @@ h5{
      padding: 30px;
      border: 10px solid blueviolet;
      margin: 50px;
+     display: flex;
 }
+
 
 
 
